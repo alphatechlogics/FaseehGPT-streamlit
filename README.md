@@ -2,6 +2,8 @@
 
 A modern Streamlit web app for generating high-quality Arabic text using the [FaseehGPT](https://huggingface.co/alphatechlogics/FaseehGPT) model by Alphatechlogics.
 
+![](https://raw.github.com/alphatechlogics/FaseehGPT-streamlit/5306327037e921d45ed454c4967217b8dc4a8165/screenshot-07_10%2C%2002_47_29%20PM.jpg)
+
 ---
 
 ## 🚀 Features
